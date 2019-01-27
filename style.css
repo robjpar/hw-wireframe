@@ -4,7 +4,7 @@ body {
     background: #777;
     width: 960px;
     font-size: 18px;
-
+    /* Added properties */
     text-align: center;
     margin-right: auto;
     margin-left: auto;
@@ -14,7 +14,7 @@ header,
 nav,
 footer {
     background: #ebebeb;
-
+    /* Added properties */
     padding: 30px;
     margin-bottom: 10px;
 }
@@ -22,7 +22,7 @@ footer {
 section {
     background: #ebebeb;
     width: 495px;
-
+    /* Added properties */
     float: left;
     padding: 30px;
     margin: 10px 10px 20px 0;
@@ -31,7 +31,7 @@ section {
 article {
     color: #ebebeb;
     background: #777;
-
+    /* Added properties */
     padding: 20px;
     margin-top: 20px;
 }
@@ -40,13 +40,13 @@ h1,
 p {
     color: #777;
     background: #ebebeb;
-
+    /* Added properties */
     padding: 10px;
 }
 
 aside {
     background: #ebebeb;
-
+    /* Added properties */
     float: right;
     width: 325px;
     height: 247px;
@@ -55,6 +55,6 @@ aside {
 }
 
 footer {
-
+    /* Added properties */
     clear: both;
 }
